@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>LArcVHS Blog</title>
+        <link>https://www.larcvhs.com/</link>
+        <description>LArcVHS Blog</description>
+        <lastBuildDate>Fri, 26 Dec 1997 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <copyright>Copyright © 2023 @larcvhs.</copyright>
+        <item>
+            <title><![CDATA[「虹」+ interview]]></title>
+            <link>https://www.larcvhs.com/1997/12/26/VHS-001/「虹」+ interview</link>
+            <guid>https://www.larcvhs.com/1997/12/26/VHS-001/「虹」+ interview</guid>
+            <pubDate>Fri, 26 Dec 1997 00:00:00 GMT</pubDate>
+            <description><![CDATA[L'Arc～en～Ciel 「虹」+ interview - 1997.12.26 - MUSIC STATION SUPER LIVE '97]]></description>
+            <content:encoded><![CDATA[<p>L'Arc～en～Ciel 「虹」+ interview <br> 1997.12.26 - MUSIC STATION SUPER LIVE '97</p><p><img loading="lazy" alt="L&amp;#39;Arc～en～Ciel 「虹」+ interview - 1997.12.26 - MUSIC STATION SUPER LIVE &amp;#39;97 (preview)" src="/assets/images/preview-7c6121d1ee2a2eceb43cde465462a83a.webp" width="1920" height="1080" class="img_ev3q"></p><p>Screenshots</p><p><img loading="lazy" alt="L&amp;#39;Arc～en～Ciel 「虹」+ interview - 1997.12.26 - MUSIC STATION SUPER LIVE &amp;#39;97" src="/assets/images/image-078fc5dc32a7b43a0cbd59612fbd5fe8.webp" width="1920" height="14520" class="img_ev3q"></p>]]></content:encoded>
+            <category>TV LIVE</category>
+            <category>VHS-001</category>
+            <category>VHS (EP)</category>
+            <category>MUSIC STATION</category>
+            <category>MUSIC STATION SUPER LIVE</category>
+        </item>
+    </channel>
+</rss>

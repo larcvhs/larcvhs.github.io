@@ -1,0 +1,23 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "LArcVHS Blog",
+    "home_page_url": "https://www.larcvhs.com/",
+    "description": "LArcVHS Blog",
+    "items": [
+        {
+            "id": "https://www.larcvhs.com/1997/12/26/VHS-001/「虹」+ interview",
+            "content_html": "<p>L'Arc～en～Ciel 「虹」+ interview <br> 1997.12.26 - MUSIC STATION SUPER LIVE '97</p><p><img loading=\"lazy\" alt=\"L&amp;#39;Arc～en～Ciel 「虹」+ interview - 1997.12.26 - MUSIC STATION SUPER LIVE &amp;#39;97 (preview)\" src=\"/assets/images/preview-7c6121d1ee2a2eceb43cde465462a83a.webp\" width=\"1920\" height=\"1080\" class=\"img_ev3q\"></p><p>Screenshots</p><p><img loading=\"lazy\" alt=\"L&amp;#39;Arc～en～Ciel 「虹」+ interview - 1997.12.26 - MUSIC STATION SUPER LIVE &amp;#39;97\" src=\"/assets/images/image-078fc5dc32a7b43a0cbd59612fbd5fe8.webp\" width=\"1920\" height=\"14520\" class=\"img_ev3q\"></p>",
+            "url": "https://www.larcvhs.com/1997/12/26/VHS-001/「虹」+ interview",
+            "title": "「虹」+ interview",
+            "summary": "L'Arc～en～Ciel 「虹」+ interview - 1997.12.26 - MUSIC STATION SUPER LIVE '97",
+            "date_modified": "1997-12-26T00:00:00.000Z",
+            "tags": [
+                "TV LIVE",
+                "VHS-001",
+                "VHS (EP)",
+                "MUSIC STATION",
+                "MUSIC STATION SUPER LIVE"
+            ]
+        }
+    ]
+}

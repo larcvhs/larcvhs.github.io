@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[49],{3780:e=>{e.exports=JSON.parse('{"label":"VHS-001","permalink":"/tags/vhs-001","allTagsPath":"/tags","count":1}')}}]);
